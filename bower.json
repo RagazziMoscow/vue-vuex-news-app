@@ -1,0 +1,14 @@
+{
+  "name": "news-app",
+  "description": "",
+  "main": "public/index.html",
+  "authors": [
+    "zzaerodromio"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/RagazziMoscow/vue-vuex-news-app",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
