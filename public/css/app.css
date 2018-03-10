@@ -6,3 +6,8 @@
 .add {
     margin: 50px 0;
 }
+
+.article_delete {
+    display: block;
+    float: right;
+}

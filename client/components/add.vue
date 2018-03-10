@@ -72,6 +72,9 @@ export default {
       const content = this.content;
 
       this.$store.commit(ADD_ARTICLE, {author, content});
+      
+      this.author = '';
+      this.content = '';
     }
   }
 }
